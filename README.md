@@ -83,7 +83,7 @@ Evaluate using RMSE, MAE, R²
 Predict final fare
 
 📦 Installation
-git clone https://github.com/your-username/bangalore-cab-fare-prediction.git
+git clone https://github.com/Likitha146/bangalore-cab-fare-prediction.git
 cd bangalore-cab-fare-prediction
 pip install -r requirements.txt
 
